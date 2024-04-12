@@ -1,0 +1,24 @@
+http://testphp.vulnweb.com/login.php
+
+
+' or '1'='1
+
+----------------------------------------------------------------------------or----------------------------------------
+AIM: Perform SQL injection attack.
+Step 1: Open XAMPP and start apache and
+mysql.
+Step 2: Go to web browser and enter site
+localhost/phpmyadmin.
+Step 3: Create database with name sqL_db.
+Step 4: Go to site localhost/dvwa/ then login.
+Step 5: Go to security setting option in left and
+set security level low.
+Step 6: Click on SQL injection option in left.
+Step 7: Write 1 in text box and click on
+submit.
+Step 8: Write a'''=' in text box and click on
+submit.
+Step 9: Write 1=1 in text box and click on
+submit.
+Step 10 : Write 1* in text box and click on
+submit.

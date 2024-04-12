@@ -1,0 +1,5 @@
+>> open cain and abel
+>>select sniffer >> click on 2nd button (left of radioactive button)
+>>click on blue + >> window will open>>leave it on default and press OK
+>>Select APR at bottom>>Click on “+” icon on the top. Click on ok.
+>>Click on start/stop ARP icon on top

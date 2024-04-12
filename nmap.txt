@@ -1,0 +1,5 @@
+ACK Scan = nmap -sA mu.ac.in
+SYN Scan = nmap -sS mu.ac.in || nmap -p 22,113,139 scanme.nmap.org
+FIN Scan = nmap -sF -T4 mu.ac.in
+NULL Scan = nmap -sN mu.ac.in
+XMAS Scan = nmap -sX mu.ac.in

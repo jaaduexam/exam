@@ -1,0 +1,9 @@
+a- Open the cain able, click Hash
+Calculator tool 
+b-a dialogue box appears after clicking on hash calculator,
+Add the text >> Calculate hash code 
+>> Copy MD5 hash value.
+c- click on crackers>>click on MD5 Hashes>>right click pn right side >> Add list>>Paste Hash Value.
+d-click on hash code right click, Dictionary Attack>>Addto
+list>>once the window opens , go to c:/program files(x86)/cain/wordlist/wordlist>>right click and select ' Reset initial file position'.
+You'll know you've resetted when there's nothing under the position column. >>Start
